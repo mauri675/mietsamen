@@ -1,0 +1,9 @@
+Definiciones de 8 comandos.
+1. git config --global user.name "MiNombre" -> Este comando sirve para registrar mi nombre para que los demas colaboradoes sepan quien esta trabajando en esta maquina.
+2.git config --global  user.email "Miemail" -> Este comando sirve para registrar mi email.
+3. git init -> Sirve para enlazar mi carpeta a git
+4. git status -> Veo el estado de los archivos pertenecientes al  directorio enlazado a git
+5.git add -> Sirve para agregar archivos al stage.
+6. git commit -m "Nombre del commit" -> Agrego un nuevo comit.
+7.git log -> veo la lista de todos los comits.
+8.git commit --ammend -m "Nombre nuevo" => Sirve para sobreescribir el nombre de un comando
