@@ -1,0 +1,6 @@
+Mas definiciones.
+1.git mv nombreDeMiArchivo nuevoNombre ->Renombrar archivos
+2.git rm nombreArchivo -> Elimino un archivo
+3.git  reflog -> Para ver todos los commits aun los eliminados.
+4.git reset --hard idCommit -> Ubicarme en algun commit en especidivo y de ahi para abajo
+5. git branch nombreRama -> Crear una rama nueva.
