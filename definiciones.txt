@@ -1,0 +1,3 @@
+Definicion de Git y GitHub>
+Git es un sistema usado para gestionar nuestras versiones de proyecto.
+GitHub es una plataforma que usa git para almacenar via online nuestros repositorios
